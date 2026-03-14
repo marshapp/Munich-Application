@@ -1,2 +1,2 @@
 # munich_application
-A way of showing the kind of work I have done in my research experiences.
+A way of illustrating the type of work I have been carrying out during my research experiences.
